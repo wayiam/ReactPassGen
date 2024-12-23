@@ -10,12 +10,6 @@
 	const [includeNumbers, setIncludeNumbers] = useState(false);
 	const [includeSpecial, setIncludeSpecial] = useState(false);
 
-	function track() {
-		console.log("Length: ", length);
-		console.log("Include Letters: ", includeLetters);
-		console.log("Include Numbers: ", includeNumbers);
-		console.log("Include Special Characters: ", includeSpecial);
-	}
 
 	function generatePassword() {
 		let charset = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
@@ -130,7 +124,6 @@
 				</div>
 				</div>
 			</div>
-			<button onClick={track}>track</button>
 			<div className="flex justify-center">
 				<button
 				className="w-full bg-green-500 text-white font-semibold py-3 rounded-md hover:bg-green-600
