@@ -16,6 +16,10 @@ ReactPassGen is a sleek, simple, and efficient password generator app built with
 - **Tailwind CSS**: For styling and responsiveness.
 - **npm**: For package management.
 
+## Screenshot
+![image](https://github.com/user-attachments/assets/256ea960-cfc8-4793-8767-67f1aed190fe)
+
+
 ## How to Run
 
 1. Clone the repository:
