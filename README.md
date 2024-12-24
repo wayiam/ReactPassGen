@@ -22,7 +22,8 @@ Try out the app directly here: [ReactPassGen Live Demo](https://wayiam.github.io
 
 ## Screenshot
 
-![image](https://github.com/user-attachments/assets/256ea960-cfc8-4793-8767-67f1aed190fe)
+![image](https://github.com/user-attachments/assets/98bfc75d-8afb-48cf-9472-c515fa366f6f)
+
 
 ## How to Run
 
